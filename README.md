@@ -1,5 +1,7 @@
 # Air Traffic Analysis Project - README
 
+![Air Traffic Control Team](https://media.istockphoto.com/id/1319258344/photo/diverse-air-traffic-control-team-working-in-a-modern-airport-tower-office-room-is-full-of.jpg?s=612x612&w=0&k=20&c=7j_J3GJ4b2BM2C0_0gfyiikYlg1zITUT4Encp9ryDmk=)
+
 ## Overview
 
 This repository contains the code and analysis for the "Air Traffic Project - Part 1 - Data Analysis in SQL," completed as part of the BrainStation Data Science Education program. The project aims to provide actionable insights to the fund managers of the BrainStation Mutual Fund regarding investment decisions in major airline stocks. 
